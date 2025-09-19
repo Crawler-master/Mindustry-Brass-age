@@ -1,0 +1,7 @@
+name: brass-age
+displayName: "Brass age"
+description: "A mod that adds brass, zinc, and much much more. (if you're on V7 you will need to use multi-crafter lib.)"
+author: crawler master
+version: 0.5
+subtitle: "erekir update"
+minGameVersion: 140
